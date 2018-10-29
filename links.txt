@@ -1,3 +1,10 @@
 http://www.eduardopires.net.br/page/2/
 
 https://docs.microsoft.com/en-us/dotnet/framework/develop-web-apps-with-aspnet
+
+
+Conversao de arrays
+https://docs.microsoft.com/en-us/dotnet/api/system.array.convertall?view=netframework-4.7.2
+
+Interpolacao de String
+https://docs.microsoft.com/pt-br/dotnet/csharp/language-reference/tokens/interpolated
